@@ -67,5 +67,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
+<img width="1072" height="885" alt="Screenshot 2025-12-25 at 7 13 11 PM" src="https://github.com/user-attachments/assets/682f3602-2d53-4a2c-8641-b636551e290e" />
+<img width="1633" height="934" alt="TravelScrapsMain" src="https://github.com/user-attachments/assets/06ca4a51-7b2c-4dea-8f98-9a3456b7f990" />
+<img width="1386" height="939" alt="Screenshot 2025-12-25 at 6 44 53 PM" src="https://github.com/user-attachments/assets/8d69c1b7-2fa9-43ed-b251-d62e43b12821" />
+<img width="590" height="752" alt="Screenshot 2025-12-25 at 6 45 17 PM" src="https://github.com/user-attachments/assets/969a83c1-38e0-4f21-a5fc-1f6fbac677e0" />
+<img width="1504" height="494" alt="Screenshot 2025-12-25 at 6 45 03 PM" src="https://github.com/user-attachments/assets/9e586eab-ca95-4ada-a289-d475333d360e" />
+<img width="1162" height="567" alt="Screenshot 2025-12-25 at 6 45 11 PM" src="https://github.com/user-attachments/assets/7e396829-c6f9-4d33-b61b-4d173b66e3a1" />
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # travel-scraps
